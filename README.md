@@ -66,9 +66,11 @@ print(f"Predicted value:{pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+### 1. data.head()
 ![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/e158d1bc-1bd7-4597-bff6-535df40b0b22)
+### 2. X1_Scaled
 ![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/efd41810-9ab1-4309-8901-4a337c63de6d)
+### 3. predicted value
 ![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/ae4f0326-2971-4734-991d-48232ee3c439)
 
 
