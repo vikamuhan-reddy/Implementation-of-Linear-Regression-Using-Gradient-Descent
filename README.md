@@ -8,12 +8,36 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Collect city population and profit data, then make initial guesses on how population might affect profit.
-2. Adjust guesses by comparing predicted profits with actual profits, refining them to minimize prediction error.
-3. Continue fine-tuning the model until predictions are close to actual profits.
-4. Once satisfied with the model, use it to predict profits for new city populations.
-5. Test the model's accuracy, and if needed, refine further to improve prediction reliability.
-   
+Start
+
+step 1
+1. Collect city population and profit data.
+2. Make initial guesses on how population might affect profit.
+
+step 2
+Start loop:
+1. Predict profits using initial guesses.
+2. Compare predicted profits with actual profits.
+3. Adjust guesses to minimize prediction error.
+4. Check if prediction error is acceptable (e.g., within a certain threshold).
+5. If prediction error is acceptable, stop loop.
+6. If prediction error is not acceptable, go back to step 3a.
+
+step 3
+Once satisfied with the model:
+1. Use the model to predict profits for new city populations.
+Test the model's accuracy:
+2. Collect new city population data.
+3. Predict profits using the model.
+4. Compare predicted profits with actual profits.
+
+step 4
+1. If prediction accuracy is satisfactory, stop.
+2. If prediction accuracy is not satisfactory, refine the model further.
+
+stop
+
+
 ## Program:
 
 ```py
