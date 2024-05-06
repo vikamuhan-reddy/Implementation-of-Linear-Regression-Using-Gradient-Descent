@@ -85,8 +85,10 @@ print(f"Predicted value:{pre}")
 ![WhatsApp Image 2024-04-27 at 11 36 38_9a5122ca](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/4bf16cc9-829f-4a9e-b3ee-d407b59858f7)
 
 ### 2. X1_Scaled
-![WhatsApp Image 2024-04-27 at 21 34 43_2c556c9f](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/f500621e-6f85-420d-a495-6c17a1205782)
-![WhatsApp Image 2024-04-27 at 21 34 43_73bbd618](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/bf16508b-14de-4bca-92da-7b9ceab013f1)
+![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/86d433ca-b523-4dad-a291-53ee6a4fc5a8)
+![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/ab3f0406-7fb1-4898-8290-a66f710408fa)
+![image](https://github.com/vikamuhan-reddy/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/144928933/b8d57ed3-9479-4c17-9807-b817dce43f89)
+
 
 
 ### 3. predicted value
